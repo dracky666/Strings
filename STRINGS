@@ -1,0 +1,6 @@
+long_phrase = "Hello {}, today is {}"
+
+formatted = long_phrase.format("Chris", "Monday")
+
+print(formatted)
+
